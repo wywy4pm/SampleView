@@ -1,0 +1,11 @@
+SampleView/*.iml
+SampleView/.gradle
+SampleView/.idea
+SampleView/build
+SampleView/gradlew.bat
+SampleView/gradlew
+SampleView/gradle
+SampleView/app/proguard-rules.pro
+SampleView/app/*.iml
+SampleView/app/build
+SampleView/app/libs

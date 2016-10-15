@@ -6,7 +6,7 @@ import android.view.MotionEvent;
 import android.widget.LinearLayout;
 
 /**
- * Created by WY on 2016/10/2.
+ * Created by WY on 2016/10/2
  */
 public class MyCommonLinearLayout extends LinearLayout{
     public MyCommonLinearLayout(Context context, AttributeSet attrs) {
